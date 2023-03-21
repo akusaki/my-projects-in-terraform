@@ -1,0 +1,7 @@
+# cidr_block                  = "10.10.0.0/16"
+# Availability_zone_for_Pub  = "us-east-1a"
+# cidr_block_for_PublicSub       = "10.10.1.0/24"
+# Availability_zone_for_Private = "us-east-1b"
+# cidr_block_for_PrivateSub        = "10.10.2.0/24"
+# key_pair_name             = "terraform_ec2_key"
+# instance_type             = "t2.micro"
